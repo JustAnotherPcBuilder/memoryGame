@@ -3,7 +3,8 @@ const gameContainer = document.getElementById("game");
 //img array with all available images
 const imgs = [
   'MnMulti_Mario.png',
-  'MnMulti_splatoonGirl.png',
+  'MnMulti_SplatoonGirl.png',
+  'MnOpen_Link.png',
   'MnOpen_Mario.png',
   'MnOpen_MarioKuppa.png',
   'MnOpen_Murabito.png',
@@ -22,8 +23,7 @@ const imgs = [
   'tc_MnOpen_Lemmy.png',
   'tc_MnOpen_Luigi.png',
   'tc_MnOpen_RLMW.png',
-  'tc_MnOpen_Rosetta.png',
-  'MnOpen_Link.png'
+  'tc_MnOpen_Rosetta.png'
 ]
 
 
