@@ -48,6 +48,7 @@ https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-a
   position: absolute;
   width:100%;
   align-items: center;
+  background-color: aqua;
 }
 
 /* Card flip

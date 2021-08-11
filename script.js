@@ -196,6 +196,7 @@ function gameOver() {
   restartButton.setAttribute('id', 'restart');
   restartButton.innerText = 'Restart';
   document.querySelector('#score').append(restartButton);
+  document.querySelector('#score').style.backgroundColor = 'red';
   restartButton.addEventListener('click', function () {
     if (score < highscore) {
       highscore = score;
