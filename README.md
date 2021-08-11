@@ -1,3 +1,3 @@
 # memoryGame
-Link go Site:
+Link to Demo Site:
 https://justanotherpcbuilder.github.io/memoryGame/
